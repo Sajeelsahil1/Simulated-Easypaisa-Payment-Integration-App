@@ -31,7 +31,7 @@ This app demonstrates how to integrate payment APIs (real or simulated) with a F
 
 > 📷 Add your screenshot below (replace the example path)
 
-![App Screenshot](screenshots/app_ui.png)
+![App Screenshot](screenshots/home page ui.PNG)
 
 ---
 
