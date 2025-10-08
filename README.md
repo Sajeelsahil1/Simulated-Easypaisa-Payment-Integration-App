@@ -27,11 +27,17 @@ This app demonstrates how to integrate payment APIs (real or simulated) with a F
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-> 📷 Add your screenshot below (replace the example path)
+### 🏠 Home Page UI
+![Home Page](screenshots/home%20page%20ui.PNG)
 
-![App Screenshot](screenshots/home page ui.PNG)
+### 💰 Payment Successful UI
+![Payment Successful](screenshots/payment%20successful%20ui.PNG)
+
+### 🧾 Transaction History Page
+![Transaction History](screenshots/transaction%20history%20page.PNG)
+
 
 ---
 
